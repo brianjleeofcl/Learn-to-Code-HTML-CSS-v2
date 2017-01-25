@@ -85,7 +85,7 @@ The index.html page currently has a number of elements already in place. Each el
 ###### Self-closing Tags:
 - `<img src="">` creates an image in the page
 - `<br>` creates a break in the content
-- `<input>` creates an input field
+- `<input type="">` creates an input field
 
 #### HTML Attributes:
 HTML attributes inform the browser on what to do with a tagged piece of content.
@@ -94,9 +94,9 @@ Attributes generally appear as name-value pairs.
 <p class="foo">This is the content of an element with class 'foo'.</p>
 ```
 ###### The most common attributes are:
-- id="" - id is used on only a single element"
-- class="" - class can be used on multiple elements"
-- style="" - add some color, font, margins, etc.
+- `id=""` - id is used on only a single element"
+- `class=""` - class can be used on multiple elements"
+- `style=""` - add some color, font, margins, etc.
 - ^ *There’s a MUCH better way to do this via CSS - more on that later!*
 
 How do we check elements for whether they're talking to the browser? Use the **inspect element** feature!
@@ -115,9 +115,17 @@ How do we check elements for whether they're talking to the browser? Use the **i
 
 #### Fill out your website
 1. In the index.html file, add the following:
-	- Name of your website in the header (hint: consider using an h1 heading)
-	- In the first section, add a picture
-	-
+	- Name of your website in the header (hint: consider using a heading tag)
+	- A picture in the figure section of your main page
+	- Two very short paragraphs in the middle section
+	- An ordered list and an unordered list in the last section
+	- A short copyright notice in the footer
+
+2. (advanced) Add the following:
+	- Insert a caption under your picture
+	- Insert a youtube video in your main page
+	- Add a link to your email address in the copyright notice
+	- Add a navigation bar in the header of the page
 
 But... how do we make HTML... better?
 
@@ -143,7 +151,7 @@ h1 {  // this is either an element, class, or ID
 	color: #000000; // hexadecimal, RGB, etc.
 }
 ```
-Space doesn’t matter, but “onion” rules apply
+Don't forget the semicolon – *;* – otherwise the styles might not work!
 
 #### What are IDs?
 IDs are attributes that are used only on one element ONLY and noted with a “#” symbol in CSS
@@ -185,13 +193,11 @@ In tandem, you can do a lot with HTML & CSS! Let's give it a shot!
 - Coding can be hard - be patient!
 - Work in pairs! Even the pros do it
 - Ask for help - we’re in a school!
+- There are many ways to accomplish the same task; eventually you'll develop a sense of what is preferred
 
-#### Let's get started!
-1. Open up your text editor
-2. Navigate to your repo
-3. Open up the following files
-- index.html
-- CSS/style.css
+#### Cleaning up your website
+1. Using `height` and `width`, resize the image on your page
+2. Make your header look distinct from the rest of the site. Add a `border`? Different `background` colors? Some `margin`? Plenty of ways to accomplish this; try different things and decide what you like.
 
 #### Let's change the font!
 1. Navigate to Google Fonts: https://www.google.com/fonts
@@ -203,15 +209,11 @@ In tandem, you can do a lot with HTML & CSS! Let's give it a shot!
 7. Paste that code into your CSS under the body tag.
 8. Save and refresh!
 
-Did it work! Great! If not open up **Inspect Element** and see what happened.
+Did it work? Great! If not open up **Inspect Element** and see what happened.
 
 ## Play around in the sandbox!
 
-Try one of the following:
-- Change the name of the site to...whatever!
-- Change all the navigation links & section headers
-- Replacing the images with your own images - locally, online, etc.
-- Show what you did with the others!
+Apply what you've learned so far to customize how your site looks. Stuck? Ask for help! Alternatively, there are lots of resources online as well.
 
 # YOU DID IT! YOU'RE NOW A CODER!
 
