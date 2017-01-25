@@ -2,7 +2,7 @@
 Brought to you by Galvanize. Learn more about the way we teach code at [galvanize.com](http://galvanize.com).
 
 ## Overview
-The goal of this brief course is to provide you with a fun introduction to the world of web development, starting with HTML and CSS. 
+The goal of this brief course is to provide you with a fun introduction to the world of web development, starting with HTML and CSS.
 
 #### Here's what we'll be doing:
 * Setting up our computers for web development
@@ -45,6 +45,8 @@ Once you're ready, you can move onto the next lesson.
 
 Hyper Text Markup Language, or HTML, is the most elemental language of the internet. Everything you see within your web browser is an interpretation of HTML in some form of other, and it is essential to learn in all web development.
 
+As web applications become more complex—and browsers more capable—it is useful to separate out different functionalities. HTML governs the structure and content of a webpage while CSS controls how the content is displayed on the page.
+
 ###### The syntax of most HTML is as follows:
 * `<Tags>` - code that wraps around the content of HTML to designate a particular effect, sometimes inherent to the tag.
 * `Attributes=""` - code inserted into tags to implement a particular effect that is external to the tag.
@@ -62,36 +64,60 @@ Everything is wrapped like layers of an onion, `<opened>` and `</closed>`
 - e.g. `<div>”Hello!”</div>`
 - *Note: not every tag is like this!*
 
-###### Common Tags:
-- `<html></html>` designates document as HTML
-- `<div></div>` notes a block element in the page
-- `<a></a>` anchor, activates a link in the page
-- `<head></head>` contains meta information
-- `<body></body>` contains browser information
-- `<span></span>` notes an inline element
+The index.html page currently has a number of elements already in place. Each element's tag contains clues for the appropriate content as well as the element's context in the overall structure.
 
-###### Irregular Tags:
-- `<img />` creates an image in the page
-- `<br />` creates a big break in the page
-- `<hr />` creates a horizontal line
-- `<link />` connects this to related documents
-- `<input />` creates an input field
+###### Tags used mainly for structure:
+- `<html>` designates document as HTML
+- `<head>` contains undisplayed information
+- `<body>` contains displayed information
+- `<header>, <main>, <footer>` denotes which part of the page elements belong
+- `<nav>` contains navigation menus
+- `<section>` contains a section
+- `<div>` creates a division of elements, often used for content-neutral grouping
+
+###### Tags used mainly for content:
+- `<h1> - <h6>` create section headings
+- `<p>` creates paragraphs
+- `<a href=""></a>` (anchor), activates a link in the page
+- `<ul>, <ol>` creates lists
+  - `<li>` contains items in lists
+
+###### Self-closing Tags:
+- `<img src="">` creates an image in the page
+- `<br>` creates a break in the content
+- `<input>` creates an input field
 
 #### HTML Attributes:
 HTML attributes inform the browser on what to do with a tagged piece of content.
-Attributes generally appear as name-value pairs. 
+Attributes generally appear as name-value pairs.
 ```
 <p class="foo">This is the content of an element with class 'foo'.</p>
 ```
 ###### The most common attributes are:
 - id="" - id is used on only a single element"
 - class="" - class can be used on multiple elements"
-- href=”” - hyperlink reference to an internal or external link
-- src=”” - source file to an image, video, etc.
-- style=”” - add some color, font, margins, etc.
+- style="" - add some color, font, margins, etc.
 - ^ *There’s a MUCH better way to do this via CSS - more on that later!*
 
 How do we check elements for whether they're talking to the browser? Use the **inspect element** feature!
+
+#### LET'S CODE!
+
+###### Remember:
+- Coding can be hard - be patient!
+- Work in pairs! Even the pros do it
+- Ask for help - we’re in a school!
+
+#### Let's get started!
+1. Open up your text editor
+2. Navigate to your repo
+3. Open up index.html
+
+#### Fill out your website
+1. In the index.html file, add the following:
+	- Name of your website in the header (hint: consider using an h1 heading)
+	- In the first section, add a picture
+	-
 
 But... how do we make HTML... better?
 
@@ -123,12 +149,12 @@ Space doesn’t matter, but “onion” rules apply
 IDs are attributes that are used only on one element ONLY and noted with a “#” symbol in CSS
 e.g.
 ```
-HTML: 
+HTML:
 <a id=”leesName”>Lee Ngo</a>
 
-CSS: 
-#leesName { 
-	color: white; 
+CSS:
+#leesName {
+	color: white;
 }
 ```
 IDs are used to direct functions to unique elements in the HTML so that there’s no confusion
@@ -139,12 +165,12 @@ IDs are used to direct functions to unique elements in the HTML so that there’
 
 Classes are attributes something to multiple elements on a page noted with a “.” symbol in CSS.
 ```
-HTML: 
+HTML:
 <a class=”ninja”>Lee Ngo</a>
 
-CSS: 
-.ninja { 
-	color: black; margin: 10px; 
+CSS:
+.ninja {
+	color: black; margin: 10px;
 }
 ```
 Classes are used to change or affect multiple items in an HTML document at once
@@ -185,7 +211,7 @@ Try one of the following:
 - Change the name of the site to...whatever!
 - Change all the navigation links & section headers
 - Replacing the images with your own images - locally, online, etc.
-- Show what you did with the others! 
+- Show what you did with the others!
 
 # YOU DID IT! YOU'RE NOW A CODER!
 
