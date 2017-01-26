@@ -238,7 +238,7 @@ For the most up-to-date figures, check out this [site](http://www.galvanize.com/
 
 #### About the Authors
 
-[Brian Lee](https://github.com/brianjlee) needs to add his bio and contact information here, if so inclined.
+[Brian Lee](https://github.com/brianjleeofcl) needs to add his bio and contact information here, if so inclined.
 
 [Lee Ngo](http://linkedin.com/in/leengo) is an evangelist for Galvanize based in Seattle. Previously he worked for UP Global (now Techstars) and founded his own ed-tech company in Pittsburgh, PA. Lee believes in learning by doing, engaging and sharing, and he teaches code through a combination of visual communication, teamwork, and project-oriented learning.
 
