@@ -198,6 +198,9 @@ In tandem, you can do a lot with HTML & CSS! Let's give it a shot!
 #### Cleaning up your website
 1. Using `height` and `width`, resize the image on your page
 2. Make your header look distinct from the rest of the site. Add a `border`? Different `background` colors? Some `margin`? Plenty of ways to accomplish this; try different things and decide what you like.
+3. Try using `text-align` with `left`, `center` and `right`
+4. (adv.) Can you think of a way to have the two paragraphs in the middle section appear side-by-side? (hint: `display`)
+5. (adv.) Can you think of a way to apply the same style to even-numbered elements on the ordered list?
 
 #### Let's change the font!
 1. Navigate to Google Fonts: https://www.google.com/fonts
