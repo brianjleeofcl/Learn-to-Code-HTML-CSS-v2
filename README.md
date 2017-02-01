@@ -202,18 +202,6 @@ In tandem, you can do a lot with HTML & CSS! Let's give it a shot!
 4. (adv.) Can you think of a way to have the two paragraphs in the middle section appear side-by-side? (hint: `display`)
 5. (adv.) Can you think of a way to apply the same style to even-numbered elements on the ordered list?
 
-#### Let's change the font!
-1. Navigate to Google Fonts: https://www.google.com/fonts
-2. Find a font you like and click "Add to Collection".
-3. On the bottom right side of your screen click "Use".
-4. On the "Use" page, scroll down to "Number 3" and copy the link tag provided.
-5. Paste that link tag in your index.html file with the new link tag you copied from Google Fonts.
-6. Copy the CSS code under “Number Four.”
-7. Paste that code into your CSS under the body tag.
-8. Save and refresh!
-
-Did it work? Great! If not open up **Inspect Element** and see what happened.
-
 ## Play around in the sandbox!
 
 Apply what you've learned so far to customize how your site looks. Stuck? Ask for help! Alternatively, there are lots of resources online as well.
@@ -222,23 +210,23 @@ Apply what you've learned so far to customize how your site looks. Stuck? Ask fo
 
 Welcome to the cool kids club.
 
-#### Want to code more? Check out Galvanize's Full Stack Immersive Program!
+#### Want to code more? Check out Galvanize's Web Development Immersive Program!
 
 - 24 Week Full-Time Program
-- 97% Job Placement Rate within six months
+- 91% Job Placement Rate within six months
 - Average starting salary: $77,000 per annum
 - Scholarships available for those who qualify
-- Learn more at http://galvanize.com/courses/fullstack/
+- Learn more at http://galvanize.com/courses/web-development/
 
 #### Looking for something more flexible? Check out our Evening Workshops!
 
-- Zero to Web Designer
-- Foundations of JavaScript
-- Learn more at http://www.galvanize.com/workshops/
+http://www.galvanize.com/workshops/
 
 #### About the Authors
 
-[Graham McBain](http://linkedin.com/in/grahammcbain) is a graduate of the 3rd cohort of the Galvanzie Full Stack Program and now Evangelist for Galvanize based in the Colorado area. Graham believes that programming is more accessible than people think and is passionate about showing people the path to becoming a developer.
+[Brian Lee](https://www.linkedin.com/in/brianjleenet) is a member of the 40th cohort of Galvanize Web Development Program. He is an avid contribute to the Learn to Code Initiative and once aspired to be a wartime photojournalist.
+
+[Graham McBain](http://linkedin.com/in/grahammcbain) is a graduate of the 3rd cohort of the Galvanzie Web Development Program and former Evangelist for Galvanize based in the Colorado area. Graham believes that programming is more accessible than people think and is passionate about showing people the path to becoming a developer.
 
 [Lee Ngo](http://linkedin.com/in/leengo) is an evangelist for Galvanize based in Seattle. Previously he worked for UP Global (now Techstars) and founded his own ed-tech company in Pittsburgh, PA. Lee believes in learning by doing, engaging and sharing, and he teaches code through a combination of visual communication, teamwork, and project-oriented learning.
 
