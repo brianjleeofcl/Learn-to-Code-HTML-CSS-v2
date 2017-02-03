@@ -202,6 +202,19 @@ In tandem, you can do a lot with HTML & CSS! Let's give it a shot!
 4. (adv.) Can you think of a way to have the two paragraphs in the middle section appear side-by-side? (hint: `display`)
 5. (adv.) Can you think of a way to apply the same style to even-numbered elements on the ordered list?
 
+#### Let's change the font!
+1. Navigate to Google Fonts: https://www.google.com/fonts
+2. Find a font you like and click "Add to Collection".
+3. On the bottom right side of your screen click "Use".
+4. On the "Use" page, scroll down to "Number 3" and copy the link tag provided.
+5. Paste that link tag in your index.html file with the new link tag you copied from Google Fonts.
+6. Copy the CSS code under “Number Four.”
+7. Paste that code into your CSS under the body tag.
+8. Save and refresh!
+
+Did it work? Great! If not open up **Inspect Element** and see what happened.
+
+
 ## Play around in the sandbox!
 
 Apply what you've learned so far to customize how your site looks. Stuck? Ask for help! Alternatively, there are lots of resources online as well.
