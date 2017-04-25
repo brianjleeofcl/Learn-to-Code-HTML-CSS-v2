@@ -214,6 +214,7 @@ In tandem, you can do a lot with HTML & CSS! Let's give it a shot!
 
 Did it work? Great! If not open up **Inspect Element** and see what happened.
 
+
 ## Play around in the sandbox!
 
 Apply what you've learned so far to customize how your site looks. Stuck? Ask for help! Alternatively, there are lots of resources online as well.
@@ -225,8 +226,6 @@ Welcome to the cool kids club.
 #### Want to code more? Check out Galvanize's Web Development Immersive Program!
 
 - 24 Week Full-Time Program
-- 91% Job Placement Rate within six months
-- Average starting salary: $77,000 per annum
 - Scholarships available for those who qualify
 - Learn more at http://galvanize.com/courses/web-development/
 
@@ -234,11 +233,13 @@ For the most up-to-date figures, check out this [site](http://www.galvanize.com/
 
 #### Looking for something more flexible? Check out our Evening Workshops!
 
-- Learn more at http://www.galvanize.com/workshops/
+http://www.galvanize.com/workshops/
 
 #### About the Authors
 
-[Brian Lee](https://linkedin.com/in/brianjleenet) needs to add his bio and contact information here, if so inclined.
+[Brian Lee](https://www.linkedin.com/in/brianjleenet) is a member of the 40th cohort of Galvanize Web Development Program. He is an avid contribute to the Learn to Code Initiative and once aspired to be a wartime photojournalist.
+
+[Graham McBain](http://linkedin.com/in/grahammcbain) is a graduate of the 3rd cohort of the Galvanzie Web Development Program and former Evangelist for Galvanize based in the Colorado area. Graham believes that programming is more accessible than people think and is passionate about showing people the path to becoming a developer.
 
 [Lee Ngo](http://linkedin.com/in/leengo) is an evangelist for Galvanize based in Seattle. Previously he worked for UP Global (now Techstars) and founded his own ed-tech company in Pittsburgh, PA. Lee believes in learning by doing, engaging and sharing, and he teaches code through a combination of visual communication, teamwork, and project-oriented learning.
 
