@@ -2,7 +2,7 @@
 Brought to you by Galvanize. Learn more about the way we teach code at [galvanize.com](http://galvanize.com).
 
 ## Overview
-The goal of this brief course is to provide you with a fun introduction to the world of web development, starting with HTML and CSS.
+We're going to provide you with a fun introduction to the world of web development, starting with HTML and CSS. By the end you'll have created your own basic web page.
 
 #### Here's what we'll be doing:
 * Setting up our computers for web development
@@ -226,10 +226,10 @@ Welcome to the cool kids club.
 #### Want to code more? Check out Galvanize's Web Development Immersive Program!
 
 - 24 Week Full-Time Program
-- 91% Job Placement Rate within six months
-- Average starting salary: $77,000 per annum
 - Scholarships available for those who qualify
 - Learn more at http://galvanize.com/courses/web-development/
+
+For the most up-to-date figures, check out this [site](http://www.galvanize.com/citations/).
 
 #### Looking for something more flexible? Check out our Evening Workshops!
 
